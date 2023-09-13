@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lionared
-- 👀 I’m interested in Golang, Java & Rust.
+- 👀 I’m interested in Golang, Java, Python, TypeScript & JavaScript.
 - 🌱 I’m currently learning Rust.
 
 <!---
